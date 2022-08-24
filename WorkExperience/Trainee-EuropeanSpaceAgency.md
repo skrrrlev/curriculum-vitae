@@ -12,3 +12,8 @@
     <img src="../images/icons/light/location.png#gh-dark-mode-only" alt="location" width="15"/>
     <font size="2"> European Space Agency (ESAC)</font>
 </p>
+
+In July 2020 I started a traineeship at ESAC, which is a department of the European Space Agency.
+I was a trainee at the EUCLID mission, which has a planned launch in 2022.
+
+My daily tasks consisted of data handling, data processing and data visualisation through Linux and Python with the purpose of using statistics for assessing the performance of a suggested internal data pipeline algorithm.
