@@ -25,3 +25,41 @@
 <img src="images/headshot/320x320.jpg" align="right"
      alt="headshot" width="320" height="320">
 Blabla
+Blabla
+
+Blabla
+Blabla
+
+Blabla
+Blabla
+
+Blabla
+Blabla
+
+Blabla
+Blabla
+
+Blabla
+Blabla
+
+Blabla
+Blabla
+
+Blabla
+Blabla
+
+Blabla
+Blabla
+
+
+# Overview
+- [Education](Education/)
+    - [Bachelor's Degree](Education/B.Sc.Eng.md)
+    - [Master's Degree](Education/B.Sc.Eng.md)
+- [Work Experience](WorkExperience/)
+- [Skills](Skills/)
+    - [Python](Skills/python.py)
+    - [Continous delivery](Skills/Jenkinsfile.groovy)
+    - [C++](Skills/cpp.cpp)
+    - [C#](Skills/cs.cs)
+- [References](References/)
