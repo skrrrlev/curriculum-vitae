@@ -1,4 +1,5 @@
-_Curriculum vitae_
+
+<font size="1"> Curriculum vitae</font>
 # `Ditlev Frickmann`
 <p align="middle">
     <img src="images/icons/dark/location.png#gh-light-mode-only" alt="location" width="15"/>
@@ -20,7 +21,7 @@ _Curriculum vitae_
 
 
 
-## About me
+# About me
 <img src="images/headshot/320x320.jpg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="320" height="320">
-blablabla
+     alt="headshot" width="320" height="320">
+Blabla

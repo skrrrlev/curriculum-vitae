@@ -25,3 +25,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# Dont include the badge maker
+images/badges/local-badges
