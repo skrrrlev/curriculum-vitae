@@ -5,7 +5,15 @@ _Curriculum vitae_
     <img src="images/icons/dark/location.png#gh-light-mode-only" alt="location" width="15"/>
     <img src="images/icons/light/location.png#gh-dark-mode-only" alt="location" width="15"/>
     <font size="2"> Copenhagen N, Denmark</font>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/icons/dark/mail.png#gh-light-mode-only" alt="linkedin" width="15"/>
+    <img src="images/icons/light/mail.png#gh-dark-mode-only" alt="linkedin" width="15"/>
+    <font size="2"> reimer.frickmann@gmail.com</font>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/icons/dark/phone.png#gh-light-mode-only" alt="linkedin" width="15"/>
+    <img src="images/icons/light/phone.png#gh-dark-mode-only" alt="linkedin" width="15"/>
+    <font size="2"> +4523219859</font>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/icons/dark/linkedin.png#gh-light-mode-only" alt="linkedin" width="15"/>
     <img src="images/icons/light/linkedin.png#gh-dark-mode-only" alt="linkedin" width="15"/>
     <a href="https://www.linkedin.com/in/ditlev-frickmann/" >Ditlev Frickmann </a>
