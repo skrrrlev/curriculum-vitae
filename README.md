@@ -1,7 +1,8 @@
 _Curriculum vitae_
 # `Ditlev Frickmann`
 
-
+![location](images/icons/light/location.png#gh-dark-mode-only)
+![location](images/icons/dark/location.png#gh-light-mode-only)
 
 <p align="left" >
     <picture>
