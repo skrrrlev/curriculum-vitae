@@ -14,3 +14,14 @@
     <img src="../images/icons/light/location.png#gh-dark-mode-only" alt="location" width="15"/>
     <font size="2"> University of Copenhagen</font>
 </p>
+
+## Programme
+Physics; Astrophysics; Observational astronomy
+
+## Topics
+- Data processing and visualisation
+- Advanced methods in applied statistics
+- Machine learning
+- Python
+- Theoretical and observational astrophysics
+- The interstellar medium and the formation of stars

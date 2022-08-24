@@ -26,6 +26,7 @@ Earth and Space Physics and Engineering
 - Physical modelling
 - Applied statistics
 - Numerical and mathematical methods
+- Satellite Systems
 - Planetary physics
 - Astrophysics
 - Cosmology
