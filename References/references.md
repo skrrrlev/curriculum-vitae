@@ -6,11 +6,3 @@ References from previous teachers and employers, who can vouch for me, can be se
 
 However, already appended you will find:
 - [Letter of recommendation by senior scientist Jérôme Chenevez](recommendation_jerome.pdf)
-
-
-## Letter of recommendation by senior scientist Jérôme Chenevez
-<object data="https://github.com/skrrrlev/curriculum-vitae/blob/master/References/recommendation_jerome.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/skrrrlev/curriculum-vitae/blob/master/References/recommendation_jerome.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/skrrrlev/curriculum-vitae/blob/master/References/recommendation_jerome.pdf">Download PDF</a>.</p>
-    </embed>
-</object>

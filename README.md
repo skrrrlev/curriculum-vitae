@@ -46,4 +46,4 @@
     - [Continous delivery with Jenkins, Groovy, Docker and Git](Skills/Jenkinsfile.groovy)
     - [SDK test automation in C++](Skills/cpp.cpp)
     - [SDK test automation in C#](Skills/cs.cs)
-- [References](References/)
+- [References](References/references.md)
