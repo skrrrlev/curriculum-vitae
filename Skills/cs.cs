@@ -12,7 +12,7 @@ namespace CurriculumVitae
     public class Tests
     {
         [Fact]
-        public void LoadIIQ()
+        public void TestCV()
         {
             try
             {

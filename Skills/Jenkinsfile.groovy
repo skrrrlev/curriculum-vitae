@@ -10,7 +10,6 @@ Additionally, I've written some shared libraries in groovy that I use in the pip
 
 pipeline
 {
-    //agent any
     agent {
         label 'curriculum-vitae-builders'
     }
