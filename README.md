@@ -22,7 +22,7 @@
 
 # Profile
 <img src="images/headshot/320x320.jpg" align="right"
-     alt="headshot" width="320" height="320">
+     alt="headshot" width="250" height="250">
 - 25 years old.
 - Dedicated programmer and astrophysicist specialising in test automation, continous delivery and data processing pipelines.  
 - Test Automation Engineer at Phase One.
