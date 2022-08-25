@@ -1,3 +1,5 @@
+<a href=https://github.com/skrrrlev/curriculum-vitae><img src="../images/icons/home.png" align="right"
+     alt="headshot" width="50" height="50"></a>
 # `Trainee`
 <p align="middle">
     <img src="../images/icons/dark/beginning.png#gh-light-mode-only" alt="beginning" width="15"/>

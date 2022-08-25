@@ -1,3 +1,5 @@
+<a href=https://github.com/skrrrlev/curriculum-vitae><img src="../images/icons/home.png" align="right"
+     alt="headshot" width="50" height="50"></a>
 ![bachelor](../images/badges/master-degree.svg)
 
 # `Master of Science in Physics`
