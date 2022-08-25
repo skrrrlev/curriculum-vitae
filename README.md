@@ -20,36 +20,17 @@
 </p>
 
 
-
-# About me
+# Profile
 <img src="images/headshot/320x320.jpg" align="right"
      alt="headshot" width="320" height="320">
-Blabla
-Blabla
-
-Blabla
-Blabla
-
-Blabla
-Blabla
-
-Blabla
-Blabla
-
-Blabla
-Blabla
-
-Blabla
-Blabla
-
-Blabla
-Blabla
-
-Blabla
-Blabla
-
-Blabla
-Blabla
+- 25 years old.
+- Dedicated programmer and astrophysicist specialising in test automation, continous delivery and data processing pipelines.  
+- Test Automation Engineer at Phase One.
+- Soon to be M.Sc.Phys. at the University of Copenhagen.
+- B.Sc.Eng. at the Technical University of Denmark
+- Outgoing with a flair for teamwork and communication.
+- Passionate about sustainability.
+- Avid space geek.
 
 
 # Overview
@@ -57,9 +38,12 @@ Blabla
     - [Bachelor's Degree](Education/B.Sc.Eng.md)
     - [Master's Degree](Education/M.Sc.Phys.md)
 - [Work Experience](WorkExperience/)
+    - [Test Automation Engineer at Phase One](WorkExperience/TestAutomation-PhaseOne.md)
+    - [Trainee at the European Space Agency](WorkExperience/Trainee-EuropeanSpaceAgency.md)
+    - [And a handfull of others](WorkExperience/Others.md)
 - [Skills](Skills/)
-    - [Python](Skills/python.py)
-    - [Continous delivery](Skills/Jenkinsfile.groovy)
-    - [C++](Skills/cpp.cpp)
-    - [C#](Skills/cs.cs)
+    - [Everything python](Skills/python.py)
+    - [Continous delivery with Jenkins, Groovy, Docker and Git](Skills/Jenkinsfile.groovy)
+    - [SDK test automation in C++](Skills/cpp.cpp)
+    - [SDK test automation in C#](Skills/cs.cs)
 - [References](References/)
